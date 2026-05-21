@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background gradient simulation -->
+    <path
+        android:fillColor="#1A0A2E"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z" />
+
+    <!-- Outer glow ring -->
+    <path
+        android:fillColor="#44C084FC"
+        android:pathData="M54,54m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0" />
+
+    <!-- Inner dark circle -->
+    <path
+        android:fillColor="#0D0520"
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+
+    <!-- Triangle up -->
+    <path
+        android:strokeColor="#C084FC"
+        android:strokeWidth="3"
+        android:fillColor="#22C084FC"
+        android:pathData="M54,28 L72,60 L36,60 Z" />
+
+    <!-- Triangle down -->
+    <path
+        android:strokeColor="#F472B6"
+        android:strokeWidth="3"
+        android:fillColor="#22F472B6"
+        android:pathData="M54,80 L36,48 L72,48 Z" />
+
+    <!-- Center jewel -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path
+        android:fillColor="#C084FC"
+        android:pathData="M54,54m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+
+</vector>

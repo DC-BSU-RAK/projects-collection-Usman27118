@@ -1,0 +1,7 @@
+#Thu May 21 09:07:47 GST 2026
+base.0=C\:\\Users\\Khati\\Downloads\\ZineOS\\ZineOS\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\Khati\\Downloads\\ZineOS\\ZineOS\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
